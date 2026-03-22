@@ -75,7 +75,8 @@ I highly recommend to add a bounty to the issue that you're waiting for to incre
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
+- [Installation](#installation)
+  - [Types for React & Redux](#types-for-react--redux)
   - [React Types Cheatsheet](#react-types-cheatsheet)
     - [`React.FC<Props>` | `React.FunctionComponent<Props>`](#reactfcprops--reactfunctioncomponentprops)
     - [`React.Component<Props, State>`](#reactcomponentprops-state)
@@ -833,7 +834,7 @@ We have recommended config that will automatically add a parser & plugin for Typ
 
 ### [react-styleguidist](https://github.com/styleguidist/react-styleguidist)
 
-[⟩⟩⟩ styleguide.config.js](/playground/styleguide.config.js)  
+[⟩⟩⟩ styleguide.config.js](/playground/styleguide/styleguide.config.js)  
 
 [⟩⟩⟩ demo](https://piotrwitek.github.io/react-redux-typescript-guide/)
 
