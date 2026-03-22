@@ -2266,3 +2266,4 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 MIT License
 
 Copyright (c) 2017 Piotr Witek <piotrek.witek@gmail.com> (<https://piotrwitek.github.io>)
+Refactoring react-styleguidist docs for issue #126.
